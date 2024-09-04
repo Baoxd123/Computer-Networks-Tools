@@ -1,0 +1,284 @@
+[
+    {
+        "hop": 1,
+        "hosts": [
+            [
+                "_gateway",
+                "(_gateway)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ]
+        ],
+        "min": 1.041,
+        "max": 4.925,
+        "avg": 1.879,
+        "med": 1.393
+    },
+    {
+        "hop": 2,
+        "hosts": [
+            [
+                "172.19.52.65",
+                "(172.19.52.65)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ]
+        ],
+        "min": 0.268,
+        "max": 4.614,
+        "avg": 1.2434,
+        "med": 0.425
+    },
+    {
+        "hop": 3,
+        "hosts": [
+            [
+                "1057-Life-BAgg-R.net.uga.edu",
+                "(1057-Life-BAgg-R.net.uga.edu)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "1023-Boyd-BAgg-R.net.uga.edu",
+                "(1023-Boyd-BAgg-R.net.uga.edu)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "1057-Life-BAgg-R.net.uga.edu",
+                "(1057-Life-BAgg-R.net.uga.edu)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ]
+        ],
+        "min": 0.847,
+        "max": 1.479,
+        "avg": 1.1317333333333335,
+        "med": 1.149
+    },
+    {
+        "hop": 4,
+        "hosts": [
+            [
+                "1023-Boyd-Core-R.net.uga.edu",
+                "(1023-Boyd-Core-R.net.uga.edu)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "0042-Peabody-Core-R.net.uga.edu",
+                "(0042-Peabody-Core-R.net.uga.edu)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "0042-Peabody-Core-R.net.uga.edu",
+                "(0042-Peabody-Core-R.net.uga.edu)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ]
+        ],
+        "min": 0.839,
+        "max": 1.299,
+        "avg": 1.0470666666666666,
+        "med": 1.068
+    },
+    {
+        "hop": 5,
+        "hosts": [
+            [
+                "Boyd-MX-re0.net.uga.edu",
+                "(Boyd-MX-re0.net.uga.edu)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "Peabody-MX-re0.net.uga.edu",
+                "(Peabody-MX-re0.net.uga.edu)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ]
+        ],
+        "min": 0.47,
+        "max": 2.289,
+        "avg": 0.7358,
+        "med": 0.652
+    },
+    {
+        "hop": 6,
+        "hosts": [
+            [
+                "HSC-PA-7050.net.uga.edu",
+                "(HSC-PA-7050.net.uga.edu)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ]
+        ],
+        "min": 1.028,
+        "max": 1.541,
+        "avg": 1.1922666666666666,
+        "med": 1.158
+    },
+    {
+        "hop": 7,
+        "hosts": [
+            [
+                "Peabody-MX-re0.net.uga.edu",
+                "(Peabody-MX-re0.net.uga.edu)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "Boyd-MX-re0.net.uga.edu",
+                "(Boyd-MX-re0.net.uga.edu)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ]
+        ],
+        "min": 1.293,
+        "max": 4.805,
+        "avg": 1.7907333333333333,
+        "med": 1.52
+    },
+    {
+        "hop": 8,
+        "hosts": [
+            [
+                "128.192.166.44",
+                "(128.192.166.44)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "trcpsx.net.uga.edu",
+                "(trcpsx.net.uga.edu)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ]
+        ],
+        "min": 4.806,
+        "max": 7.097,
+        "avg": 5.8229999999999995,
+        "med": 5.545
+    },
+    {
+        "hop": 9,
+        "hosts": [
+            [
+                "*",
+                "(*)"
+            ],
+            [
+                "74.125.48.33",
+                "(74.125.48.33)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "72.14.242.36",
+                "(72.14.242.36)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ]
+        ],
+        "min": 3.903,
+        "max": 10.471,
+        "avg": 5.248166666666667,
+        "med": 4.7435
+    },
+    {
+        "hop": 10,
+        "hosts": [
+            [
+                "*",
+                "(*)"
+            ],
+            [
+                "74.125.245.97",
+                "(74.125.245.97)"
+            ],
+            [
+                "ms",
+                "(ms)"
+            ],
+            [
+                "*",
+                "(*)"
+            ]
+        ],
+        "min": 3.706,
+        "max": 4.491,
+        "avg": 3.965,
+        "med": 3.8105
+    }
+]
