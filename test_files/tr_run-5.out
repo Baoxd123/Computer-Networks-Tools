@@ -1,0 +1,11 @@
+traceroute to www.google.com (74.125.138.147), 10 hops max, 60 byte packets
+ 1  _gateway (172.17.149.1)  0.974 ms  1.343 ms  1.730 ms
+ 2  172.19.52.65 (172.19.52.65)  0.373 ms  0.218 ms  0.296 ms
+ 3  1057-Life-BAgg-R.net.uga.edu (172.31.43.106)  1.644 ms  1.380 ms  1.225 ms
+ 4  0042-Peabody-Core-R.net.uga.edu (172.31.41.2)  1.072 ms  1.211 ms 0042-Peabody-Core-R.net.uga.edu (172.31.41.0)  1.597 ms
+ 5  Boyd-MX-re0.net.uga.edu (172.31.41.24)  0.497 ms  0.561 ms  0.474 ms
+ 6  HSC-PA-7050.net.uga.edu (172.31.47.17)  1.139 ms  1.066 ms  1.053 ms
+ 7  Peabody-MX-re0.net.uga.edu (172.31.47.13)  1.373 ms Boyd-MX-re0.net.uga.edu (172.31.47.29)  1.724 ms Peabody-MX-re0.net.uga.edu (172.31.47.13)  7.968 ms
+ 8  trcpsx.net.uga.edu (128.192.166.41)  5.399 ms  6.829 ms 128.192.166.44 (128.192.166.44)  7.318 ms
+ 9  72.14.242.36 (72.14.242.36)  5.636 ms  6.032 ms 74.125.48.33 (74.125.48.33)  3.732 ms
+10  * 108.170.248.89 (108.170.248.89)  4.305 ms *
